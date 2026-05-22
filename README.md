@@ -1,4 +1,4 @@
-# 🍎 Foundation Design iOS — TIC em Trilhas
+# 🍎 Foundation Design iOS — TIC em Trilhas — Universidade Presbiteriana Mackenzie
 
 ## 📖 Sobre o curso
 
