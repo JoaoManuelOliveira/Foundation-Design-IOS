@@ -1,6 +1,6 @@
 🍎 Foundations Design iOS — TIC em Trilhas
 
-Em 2026, concluí o curso Foundations Design iOS, promovido pelo programa TIC em Trilhas em parceria com a Universidade Presbiteriana Mackenzie.
+Em 2026, concluí o curso Foundation Design iOS, promovido pelo programa TIC em Trilhas em parceria com a Universidade Presbiteriana Mackenzie.
 
 Durante as 24 horas de formação, tive contato com fundamentos de design voltado ao ecossistema iOS, explorando conceitos essenciais de experiência do usuário (UX), interface (UI) e boas práticas de desenvolvimento para aplicações Apple.
 
